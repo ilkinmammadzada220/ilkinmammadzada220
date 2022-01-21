@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%232AB11C&size=30&center=true&vCenter=true&lines=Hello+Friend+%F0%9F%91%BE;I+am+Ilkin+Mammadzada+%F0%9F%A4%A1;I+am+Game+Developer+%F0%9F%8E%AE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%232AB11C&size=20&center=true&vCenter=true&lines=Hello+Friend+%F0%9F%91%BE;I+am+Ilkin+Mammadzada+%F0%9F%A4%A1;I+am+Game+Developer+%F0%9F%8E%AE" height=100 width=800>
 </p>
 
 <div align="center">
