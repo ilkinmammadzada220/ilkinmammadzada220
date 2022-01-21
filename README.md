@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ilkinmammadzada220&theme=midnight-purple&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilkinmammadzada220&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ilkinmammadzada220&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinmammadzada220&layout=compact&theme=midnight-purple" />
